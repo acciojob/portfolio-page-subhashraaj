@@ -1,2 +1,7 @@
-
-/* Your CSS Code here. */
+body{
+	background-color:#94a1a7;
+}
+#img{
+	border-radius:10px;
+	text-align:center;
+}
